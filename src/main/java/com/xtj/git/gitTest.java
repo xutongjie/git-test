@@ -5,5 +5,7 @@ public class gitTest {
         System.out.println("你好啊hello git");
         System.out.println("你好啊hello git2");
         System.out.println("你好啊hello git3");
+        System.out.println("你好啊hello git4");
+        System.out.println("hot-fix commit2");
     }
 }
